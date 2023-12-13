@@ -1,8 +1,9 @@
-function App() {
+import './Nullstyle.css';
 
+function App() {
   return (
     <>
-    <div></div> 
+      <div className='test'>hello</div> 
     </>
   )
 }
