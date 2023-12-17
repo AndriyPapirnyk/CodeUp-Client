@@ -1,9 +1,10 @@
 import './Nullstyle.css';
+import Welcome from './components/Welcome/Welcome';
 
 function App() {
   return (
     <>
-      <div className='test'>hello</div> 
+    <Welcome />
     </>
   )
 }

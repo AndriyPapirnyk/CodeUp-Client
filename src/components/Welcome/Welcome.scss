@@ -1,0 +1,6 @@
+@import '../../scss/mixins/mixins.scss';
+
+.welcome{
+    @include block(100vh);
+    background-color: #000;
+}
